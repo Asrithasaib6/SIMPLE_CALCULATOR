@@ -1,0 +1,16 @@
+.b1
+{
+width:50;
+height:50;
+font-size:15;
+font-weight:italic;
+background-color:orange;
+}
+#cal
+{
+background-color:gray;
+}
+body
+{
+    background-color:bisque;
+}
